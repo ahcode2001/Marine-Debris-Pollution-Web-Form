@@ -5,10 +5,8 @@ A responsive, multi-page educational website and data collection form designed t
 ## 🚀 Live Demo
 **View the live site here:** [https://ahcode2001.github.io/marine-debris-awareness/](https://ahcode2001.github.io/marine-debris-awareness/)
 
-*(Note: Replace "marine-debris-awareness" with your actual repository name if it is different)*
-
 ## 📱 Interface Preview
-
+<img width="1805" height="840" alt="image" src="https://github.com/user-attachments/assets/78c6854a-51f7-481b-9182-c33d71eca47e" />
 
 ## 🛠️ Features & Architecture
 * **Multi-Page Navigation:** Distinct HTML pages for Facts, How to Help, Resources, and Contact built with clean, semantic HTML5.
