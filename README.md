@@ -3,7 +3,7 @@
 A responsive, multi-page educational website and data collection form designed to raise awareness about marine debris pollution, its sources, and its environmental impact. 
 
 ## 🚀 Live Demo
-**View the live site here:** [https://ahcode2001.github.io/marine-debris-awareness/](https://ahcode2001.github.io/marine-debris-awareness/)
+**View the live site here:** [https://ahcode2001.github.io/Marine-Debris-Pollution-Web-Form/]([https://ahcode2001.github.io/Marine-Debris-Pollution-Web-Form/)
 
 ## 📱 Interface Preview
 <img width="1805" height="840" alt="image" src="https://github.com/user-attachments/assets/78c6854a-51f7-481b-9182-c33d71eca47e" />
