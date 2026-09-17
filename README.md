@@ -8,8 +8,7 @@ A responsive, multi-page educational website and data collection form designed t
 *(Note: Replace "marine-debris-awareness" with your actual repository name if it is different)*
 
 ## 📱 Interface Preview
-![Marine Debris Form Responsive Design](static/results/demo_image.png)
-*(Note: Upload your responsive mockup screenshot to your repository and update this image link to display it here)*
+
 
 ## 🛠️ Features & Architecture
 * **Multi-Page Navigation:** Distinct HTML pages for Facts, How to Help, Resources, and Contact built with clean, semantic HTML5.
